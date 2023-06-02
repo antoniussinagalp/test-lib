@@ -2,7 +2,7 @@
   "name": "test-lib-hanyatest",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,10 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.8",
-    "react": "^18.2.0",
+    "react": "^18.2.0"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4",
     "typescript": "^5.1.3"
   }
 }

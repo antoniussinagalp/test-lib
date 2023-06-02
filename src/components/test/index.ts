@@ -1,1 +1,2 @@
-export { default } from "./Test";
+import Test from "./Test";
+export { Test }

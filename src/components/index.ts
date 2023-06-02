@@ -1,1 +1,1 @@
-import { default as Test } from "./test";
+export { Test } from "./test";
